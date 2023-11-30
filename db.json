@@ -8,7 +8,8 @@
       "location": "Werchter",
       "date":"4-7 juli 2024",
       "time":"12:00",
-      "organizer": "Noel Steen"
+      "organizer": "Noel Steen",
+      "img": "https://www.festivalsrock.com/images/festival/1/0/6/medium.jpg?tt=1683899836"
     },
     {
       "id":2,
@@ -18,7 +19,8 @@
       "location": "Kiewit, Hasselt",
       "date":"15-18 augustus 2024",
       "time":"11:00",
-      "organizer": "Chokri Mahassine"
+      "organizer": "Chokri Mahassine",
+      "img": "https://festileaks.com/wp-content/uploads/2023/10/pukkelpop.jpg"
     },
     {
       "id":3,
@@ -28,7 +30,8 @@
       "location": "Boom",
       "date":"19-21 juli and 26-28 juli 2024",
       "time":"12:00",
-      "organizer": "Weareone"
+      "organizer": "Weareone",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo-tomorrowland.jpg"
     }
   ]
 }
